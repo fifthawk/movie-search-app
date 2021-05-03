@@ -8,10 +8,6 @@ class Main extends React.Component {
       <div className="container">
         <h1 className="title">Movie Search</h1>
         <SearchMovies/>
-              <footer>
-       This web app was created with the help of Scrimba. All code belongs to them 
-       and their creators. API provided by <a href='https://www.themoviedb.org/'>TMDB</a>.
-      </footer>
       </div>
 
     );
